@@ -2,15 +2,12 @@
 ===============
  
 
-### About
+### Sobre
 
-Mountain Shooter is a 2D arcade game developed with Pygame. The game has 2 levels and each level level end with a timeout event.
-Can be played coop (2 players).
-Score is saved in database (SQLite3))
-
-
-### Feel free if you want to contribute.
-
+Mountain Shooter é um game arcade em 2D, desenvolvido em Python com a biblioteca Pygame. 
+O game possui 3 níveis, sendo necessário chegar ficar vivo até o fim do tempo para passar de fase.
+É possível jogar no modo multiplayer (onde o jogador 1, controla através das teclas A (<) W (^) D (>) S (v) 
+e atira com o CTRL ESQUERDO, e o Player 2 joga com as setas e atira com o CTRL DIREITO.
 
 
 GAME MENU
@@ -21,3 +18,5 @@ GAME LEVEL 1
 
 ![Level1](https://github.com/user-attachments/assets/8af63514-178d-44c9-9eb0-299e0aee0933)
 
+
+# O Game possui um banco de dados SQLite3 onde armazena a pontuação dos jogadores.
