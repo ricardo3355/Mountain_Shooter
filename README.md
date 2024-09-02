@@ -6,8 +6,9 @@
 
 Mountain Shooter é um game arcade em 2D, desenvolvido em Python com a biblioteca Pygame. 
 O game possui 3 níveis, sendo necessário chegar ficar vivo até o fim do tempo para passar de fase.
-É possível jogar no modo multiplayer (onde o jogador 1, controla através das teclas A (<) W (^) D (>) S (v) 
-e atira com o CTRL ESQUERDO, e o Player 2 joga com as setas e atira com o CTRL DIREITO.
+É possível jogar no modo multiplayer, onde:
+- Jogador 1 controla através das teclas: A (⬅) W (⬆) D (⮕) S (⬇) e atira com o CTRL ESQUERDO;
+- Jogador 2 controla através das setas: ( ⬅ | ⬆ | ⮕ | ⬇ ) e atira com o CTRL DIREITO.
 
 
 GAME MENU
